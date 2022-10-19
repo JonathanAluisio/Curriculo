@@ -1,0 +1,39 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+nav {
+    height: 150px;
+    margin: 20px 0 0 500px;
+}
+
+nav li {
+    display: inline;
+	margin: 0 0 0 15px;
+    
+}
+
+nav a:hover {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.logo {
+    width: 500px;
+    height: 20px;
+    margin: 0 20px; 
+}
+
+abbr {
+    display: inline;
+}
+
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: unset;
+    padding: 30px;
+}

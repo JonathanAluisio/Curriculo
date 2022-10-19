@@ -1,0 +1,92 @@
+body {
+    
+    font-family: 'Montserrat', sans-serif;
+}
+
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: unset;
+    padding: 30px;
+}
+
+
+.logo {
+    width: 500px;
+    height: 20px;
+    margin: 0 50px; 
+}
+
+.foto{
+    width: 40%; 
+    float: right;
+}
+
+
+h1 {
+    margin: 200px 0 0 265px ; 
+    font-size: 33px;
+    font-weight: 600;
+   
+}
+
+h2 {
+    margin-left: 180px;
+    font-size: 54px;
+    font-weight: bolder;
+    
+}
+
+h3 {
+    margin-left: 230px;
+    font-size: 23px;
+    font-weight: 600;
+    
+}
+
+p {
+    margin-left: 70px;
+    font-size:19px;
+}
+
+.p2 {
+    margin-left: 190px;
+}
+
+nav {
+    height: 150px;
+    margin: 20px 0 0 500px;
+}
+
+nav li {
+    display: inline;
+	margin: 0 0 0 15px;
+    
+}
+
+nav a:hover {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.btn-download {
+    width: 20%;
+	margin: 50px 253px;
+    padding: 15px;
+	background:#7aaee9 ;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;	
+	transition: 1s all;
+	cursor: pointer;
+}
+
+.btn-download:hover {
+	transform: scale(1.2);
+}
+
+
