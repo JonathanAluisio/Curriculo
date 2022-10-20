@@ -23,7 +23,7 @@ a, a:hover, a:visited {
 
 
 h1 {
-    margin: 200px 0 0 265px ; 
+    margin: 100px 0 0 265px ; 
     font-size: 33px;
     font-weight: 600;
    
@@ -49,6 +49,7 @@ p {
 }
 
 .p2 {
+    margin-bottom: 50px;
     margin-left: 190px;
 }
 
@@ -73,9 +74,9 @@ nav a:hover {
 
 .btn-download {
     width: 20%;
-	margin: 50px 253px;
+	margin: 0 300px;
     padding: 15px;
-	background:#7aaee9 ;
+	background:#5d95d6 ;
 	color: white;
 	font-weight: bold;
 	font-size: 18px;

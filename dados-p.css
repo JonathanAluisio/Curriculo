@@ -43,16 +43,16 @@ h1 {
     font-size: 35px;
     font-weight: bold;
 }
-.meusdados {
-    margin: 50px 0 0 100px;
-    font-size: 19px;
-}
 
-p {
+h2 {
     background-color:  rgba(182, 185, 194, 0.329);
     margin: 20px 850px 0 0;
     font-weight: 600;
-    
+}
+
+.meusdados {
+    margin: 50px 0 0 100px;
+    font-size: 19px;
 }
 
 .foto-pessoal {
