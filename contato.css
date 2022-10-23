@@ -1,5 +1,14 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    
+    
+}
+
+header {
+    background-color:#0e6cc4;
+    color:#ffffff;
+    text-shadow: 1px 1px #000000;
 }
 
 nav {
@@ -15,7 +24,7 @@ nav li {
 
 nav a:hover {
 	text-transform: uppercase;
-	color: #000000;
+	color: #ffffff;
 	font-weight: bold;
 	font-size: 15px;
 	text-decoration: none;
@@ -62,11 +71,11 @@ a, a:hover, a:visited {
 }
 
 .contatos {
-    margin: 100px 0 0 0
+    margin: 100px 0 0 20px
 }
 
 .img-contato {
     width: 45%;
     float: right;
-    margin: 80px;
+    margin: 20px 150px 0 0;
 }
