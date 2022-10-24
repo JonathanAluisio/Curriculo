@@ -1,9 +1,8 @@
 body {
-    
-    font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
-    text-shadow: 1px 1px #000000;
-    margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  text-shadow: 1px 1px #000000;
+  margin: 0;
 	padding: 0;
 	background-color: #0e6cc4;
 	overflow-x:hidden;
